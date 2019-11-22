@@ -1,0 +1,26 @@
+{
+  "name": "n3-api-sexta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:dev":"nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvelynAlves1998/N3-API-SEXTA.git"
+  },
+  "author": "evelynalves1998",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvelynAlves1998/N3-API-SEXTA/issues"
+  },
+  "homepage": "https://github.com/EvelynAlves1998/N3-API-SEXTA#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.12",
+    "nodemon": "^2.0.0"
+  }
+}
